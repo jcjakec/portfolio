@@ -218,3 +218,8 @@ body {
     flex-direction: row;
     gap: 10px;
 }
+.btn-secondary {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    filter:var(--shadow-light);
+}
