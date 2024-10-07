@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
         if (window.scrollY < window.innerHeight && !scrolled) {
             window.scrollTo(0, 0);
             scrolled = false;
-        }0
+        }
     })
 })
